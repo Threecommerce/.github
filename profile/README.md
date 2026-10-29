@@ -17,9 +17,36 @@ Moduli per Magento 2 e Mage-OS, sviluppati e mantenuti in Italia. Compatibili co
 Free and paid modules, each with a full product page, user guide and changelog:
 **[threecommerce.it/moduli](https://threecommerce.it/moduli?utm_source=github&utm_medium=org-profile&utm_campaign=profile)**
 
-## Also for WordPress, WooCommerce and PrestaShop
+## Also for PrestaShop
 
-Cookie banner, free-shipping bar, `llms.txt` generator, store locator and store pickup.
+Store locator and store pickup. See the [product pages](https://threecommerce.it/moduli?utm_source=github&utm_medium=org-profile&utm_campaign=profile).
+
+## Modules on GitHub
+
+Each repository below is a public showcase: README, screenshots, changelog and release notes. Install and updates go through the [product pages](https://threecommerce.it/moduli?utm_source=github&utm_medium=org-profile&utm_campaign=profile).
+
+**Magento 2 / Mage-OS**
+
+| Module | What it does |
+|---|---|
+| [Cookie Banner](https://github.com/Threecommerce/magento2-cookie-banner) | GDPR consent banner, script blocking, consent log, cookie scanner |
+| [Newsletter Privacy Checkbox](https://github.com/Threecommerce/magento2-newsletter-privacy-checkbox) | GDPR consent checkbox on the newsletter form |
+| [Disable Newsletter Emails](https://github.com/Threecommerce/magento2-disable-newsletter-emails) | Turn off confirmation and unsubscribe emails selectively |
+| [Shipping Carriers Tracking](https://github.com/Threecommerce/magento2-shipping-carriers-tracking) | Your own carriers with tracking URL templates |
+| [Free Shipping Bar](https://github.com/Threecommerce/magento2-free-shipping-bar) | Progress bar towards free shipping, per-country thresholds |
+| [Store Locator](https://github.com/Threecommerce/magento2-store-locator) | Store list with Google Maps or OpenStreetMap |
+| [Maintenance Page](https://github.com/Threecommerce/magento2-maintenance-page) | Maintenance page that also works in developer mode |
+| [Admin User Time Zone](https://github.com/Threecommerce/magento2-admin-user-timezone) | A time zone for each admin user |
+| [View Product in Frontend](https://github.com/Threecommerce/magento2-view-product-in-frontend) | "View in front" button on the admin product page |
+| [Italian Language Pack](https://github.com/Threecommerce/magento2-language-pack-it-it) | Complete it_IT translation |
+
+**WordPress and WooCommerce**
+
+| Plugin | What it does |
+|---|---|
+| [Cookie Banner](https://github.com/Threecommerce/wordpress-cookie-banner) | GDPR banner with Google Consent Mode v2 |
+| [llms.txt](https://github.com/Threecommerce/wordpress-llms-txt) | Publishes `/llms.txt` and manages AI crawlers |
+| [Free Shipping Bar](https://github.com/Threecommerce/woocommerce-free-shipping-bar) | Free-shipping progress bar for cart, checkout and mini-cart |
 
 ## Contact
 
