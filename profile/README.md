@@ -33,7 +33,7 @@ Each repository below is a public showcase: README, screenshots, changelog and r
 | [Newsletter Privacy Checkbox](https://github.com/Threecommerce/magento2-newsletter-privacy-checkbox) | Free | GDPR consent checkbox on the newsletter form |
 | [Disable Newsletter Emails](https://github.com/Threecommerce/magento2-disable-newsletter-emails) | Free | Turn off confirmation and unsubscribe emails selectively |
 | [Shipping Carriers Tracking](https://github.com/Threecommerce/magento2-shipping-carriers-tracking) | Free | Your own carriers with tracking URL templates |
-| [Free Shipping Bar](https://github.com/Threecommerce/magento2-free-shipping-bar) | Paid | Progress bar towards free shipping, per-country thresholds |
+| [Free Shipping Bar](https://github.com/Threecommerce/magento2-free-shipping-bar) | Paid, coming soon | Progress bar towards free shipping, per-country thresholds |
 | [Store Locator](https://github.com/Threecommerce/magento2-store-locator) | Free | Store list with Google Maps or OpenStreetMap |
 | [Maintenance Page](https://github.com/Threecommerce/magento2-maintenance-page) | Free | Maintenance page that also works in developer mode |
 | [Admin User Time Zone](https://github.com/Threecommerce/magento2-admin-user-timezone) | Free | A time zone for each admin user |
@@ -46,7 +46,37 @@ Each repository below is a public showcase: README, screenshots, changelog and r
 |---|---|---|
 | [Cookie Banner](https://github.com/Threecommerce/wordpress-cookie-banner) | Free | GDPR banner with Google Consent Mode v2 |
 | [llms.txt](https://github.com/Threecommerce/wordpress-llms-txt) | Free | Publishes `/llms.txt` and manages AI crawlers |
-| [Free Shipping Bar](https://github.com/Threecommerce/woocommerce-free-shipping-bar) | Paid | Free-shipping progress bar for cart, checkout and mini-cart |
+| [Free Shipping Bar](https://github.com/Threecommerce/woocommerce-free-shipping-bar) | Paid, coming soon | Free-shipping progress bar for cart, checkout and mini-cart |
+
+## Paid modules, coming soon
+
+These are paid and not yet on sale. They have no public repository: see the product page for details and to get in touch.
+
+**Magento 2 / Mage-OS**
+
+- [One-page checkout (Hyvä and Breeze)](https://threecommerce.it/checkout-una-pagina-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- [Electronic invoice request (CF, P.IVA, SDI/PEC)](https://threecommerce.it/richiesta-fattura-elettronica-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- [Fattura24 integration](https://threecommerce.it/integrazione-fattura24-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- [SEO: meta robots, structured data, sitemap](https://threecommerce.it/seo-meta-robots-dati-strutturati-sitemap-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- [GA4 ecommerce events for Google Tag Manager](https://threecommerce.it/eventi-ecommerce-ga4-google-tag-manager-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- [Newsletter with name, surname and GDPR consent](https://threecommerce.it/newsletter-pro-consenso-gdpr-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- [Customizable product labels](https://threecommerce.it/label-prodotto-personalizzabili-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- [Catalog mode and quote requests](https://threecommerce.it/modalita-catalogo-preventivi-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- [Menu per store view](https://threecommerce.it/menu-navigazione-store-view-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- [Home page banner slider](https://threecommerce.it/slider-banner-home-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- [Out-of-stock products at the end of the category](https://threecommerce.it/prodotti-esauriti-in-fondo-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- [Customer account deletion](https://threecommerce.it/elimina-account-cliente-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- [Store pickup](https://threecommerce.it/ritiro-in-negozio-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- [Poste Delivery Business](https://threecommerce.it/poste-delivery-business-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- [ADV products](https://threecommerce.it/prodotti-adv-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- [Advanced reports](https://threecommerce.it/report-avanzati-magento-2?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+
+**WooCommerce and PrestaShop**
+
+- WooCommerce: [Store locator](https://threecommerce.it/store-locator-woocommerce?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- WooCommerce: [Store pickup](https://threecommerce.it/ritiro-in-negozio-woocommerce?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- PrestaShop: [Store locator](https://threecommerce.it/store-locator-prestashop?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
+- PrestaShop: [Store pickup](https://threecommerce.it/ritiro-in-negozio-prestashop?utm_source=github&utm_medium=org-profile&utm_campaign=profile)
 
 ## Contact
 
