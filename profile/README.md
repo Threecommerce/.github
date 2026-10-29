@@ -27,26 +27,26 @@ Each repository below is a public showcase: README, screenshots, changelog and r
 
 **Magento 2 / Mage-OS**
 
-| Module | What it does |
-|---|---|
-| [Cookie Banner](https://github.com/Threecommerce/magento2-cookie-banner) | GDPR consent banner, script blocking, consent log, cookie scanner |
-| [Newsletter Privacy Checkbox](https://github.com/Threecommerce/magento2-newsletter-privacy-checkbox) | GDPR consent checkbox on the newsletter form |
-| [Disable Newsletter Emails](https://github.com/Threecommerce/magento2-disable-newsletter-emails) | Turn off confirmation and unsubscribe emails selectively |
-| [Shipping Carriers Tracking](https://github.com/Threecommerce/magento2-shipping-carriers-tracking) | Your own carriers with tracking URL templates |
-| [Free Shipping Bar](https://github.com/Threecommerce/magento2-free-shipping-bar) | Progress bar towards free shipping, per-country thresholds |
-| [Store Locator](https://github.com/Threecommerce/magento2-store-locator) | Store list with Google Maps or OpenStreetMap |
-| [Maintenance Page](https://github.com/Threecommerce/magento2-maintenance-page) | Maintenance page that also works in developer mode |
-| [Admin User Time Zone](https://github.com/Threecommerce/magento2-admin-user-timezone) | A time zone for each admin user |
-| [View Product in Frontend](https://github.com/Threecommerce/magento2-view-product-in-frontend) | "View in front" button on the admin product page |
-| [Italian Language Pack](https://github.com/Threecommerce/magento2-language-pack-it-it) | Complete it_IT translation |
+| Module | License | What it does |
+|---|---|---|
+| [Cookie Banner](https://github.com/Threecommerce/magento2-cookie-banner) | Free | GDPR consent banner, script blocking, consent log, cookie scanner |
+| [Newsletter Privacy Checkbox](https://github.com/Threecommerce/magento2-newsletter-privacy-checkbox) | Free | GDPR consent checkbox on the newsletter form |
+| [Disable Newsletter Emails](https://github.com/Threecommerce/magento2-disable-newsletter-emails) | Free | Turn off confirmation and unsubscribe emails selectively |
+| [Shipping Carriers Tracking](https://github.com/Threecommerce/magento2-shipping-carriers-tracking) | Free | Your own carriers with tracking URL templates |
+| [Free Shipping Bar](https://github.com/Threecommerce/magento2-free-shipping-bar) | Paid | Progress bar towards free shipping, per-country thresholds |
+| [Store Locator](https://github.com/Threecommerce/magento2-store-locator) | Free | Store list with Google Maps or OpenStreetMap |
+| [Maintenance Page](https://github.com/Threecommerce/magento2-maintenance-page) | Free | Maintenance page that also works in developer mode |
+| [Admin User Time Zone](https://github.com/Threecommerce/magento2-admin-user-timezone) | Free | A time zone for each admin user |
+| [View Product in Frontend](https://github.com/Threecommerce/magento2-view-product-in-frontend) | Free | "View in front" button on the admin product page |
+| [Italian Language Pack](https://github.com/Threecommerce/magento2-language-pack-it-it) | Free | Complete it_IT translation |
 
 **WordPress and WooCommerce**
 
-| Plugin | What it does |
-|---|---|
-| [Cookie Banner](https://github.com/Threecommerce/wordpress-cookie-banner) | GDPR banner with Google Consent Mode v2 |
-| [llms.txt](https://github.com/Threecommerce/wordpress-llms-txt) | Publishes `/llms.txt` and manages AI crawlers |
-| [Free Shipping Bar](https://github.com/Threecommerce/woocommerce-free-shipping-bar) | Free-shipping progress bar for cart, checkout and mini-cart |
+| Plugin | License | What it does |
+|---|---|---|
+| [Cookie Banner](https://github.com/Threecommerce/wordpress-cookie-banner) | Free | GDPR banner with Google Consent Mode v2 |
+| [llms.txt](https://github.com/Threecommerce/wordpress-llms-txt) | Free | Publishes `/llms.txt` and manages AI crawlers |
+| [Free Shipping Bar](https://github.com/Threecommerce/woocommerce-free-shipping-bar) | Paid | Free-shipping progress bar for cart, checkout and mini-cart |
 
 ## Contact
 
