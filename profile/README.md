@@ -12,7 +12,7 @@ Moduli per Magento 2 e Mage-OS, sviluppati e mantenuti in Italia. Compatibili co
 - **Shipping**: store pickup, store locator (Google Maps or OpenStreetMap), Poste Delivery Business, free-shipping progress bar
 - **Catalog & storefront**: product labels, catalog mode, menu per store view, out-of-stock sorting, slider
 - **SEO & analytics**: JSON-LD, canonical, hreflang, GA4 behind cookie consent
-- **Admin**: reports, maintenance mode, user time zone
+- **Admin**: reports, maintenance mode, user time zone, MSI reserved quantities
 
 Free and paid modules, each with a full product page, user guide and changelog:
 **[threecommerce.it/moduli](https://threecommerce.it/moduli?utm_source=github&utm_medium=org-profile&utm_campaign=profile)**
@@ -37,6 +37,7 @@ Each repository below is a public showcase: README, screenshots, changelog and r
 | [Store Locator](https://github.com/Threecommerce/magento2-store-locator) | Free | Store list with Google Maps or OpenStreetMap |
 | [Maintenance Page](https://github.com/Threecommerce/magento2-maintenance-page) | Free | Maintenance page that also works in developer mode |
 | [Admin User Time Zone](https://github.com/Threecommerce/magento2-admin-user-timezone) | Free | A time zone for each admin user |
+| [MSI Reserved Quantities](https://github.com/Threecommerce/magento2-reserved-qty) | Free | Reserved quantity per SKU and stock, the orders holding it, quantities stuck on closed orders |
 | [View Product in Frontend](https://github.com/Threecommerce/magento2-view-product-in-frontend) | Free | "View in front" button on the admin product page |
 | [Italian Language Pack](https://github.com/Threecommerce/magento2-language-pack-it-it) | Free | Complete it_IT translation |
 
